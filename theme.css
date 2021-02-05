@@ -143,11 +143,11 @@
       position: relative;
       width: auto;
       height: 22px; }
-    /**.wordmark-2iDDfm.wordmarkWindows-1v0lYD:before {
-      content: "Material";
+    .wordmark-2iDDfm.wordmarkWindows-1v0lYD:before {
+      content: "Welcome";
       font-weight: 700; }*/
     .wordmark-2iDDfm.wordmarkWindows-1v0lYD:after {
-      content: "Discord"; }
+      content: "Naseem"; }
     .wordmark-2iDDfm.wordmarkWindows-1v0lYD svg {
       display: none; }
   
